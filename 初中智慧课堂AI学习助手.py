@@ -41,7 +41,7 @@ except:
     pyttsx3 = None
 
 # ---------------------- 全局配置 ----------------------
-WINDOW_TITLE = "初中智慧课堂AI学习助手（2026信息素养活动专版1.0）  ——单位：第二实验中学  指导教师："
+WINDOW_TITLE = "初中智慧课堂AI学习助手  ——单位：第二实验中学  指导教师："
 DB_FILE = "yishui_suyang2026_scc_data.db"
 CONFIG_FILE = "ai_config.json"
 
